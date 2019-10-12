@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Mymodel.qml</file>
+        <file>Mydel.qml</file>
+        <file>Preview.qml</file>
+    </qresource>
+</RCC>

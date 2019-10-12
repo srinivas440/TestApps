@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.jpg</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.jpg</file>
+        <file>8.jpg</file>
+        <file>9.png</file>
+        <file>10.jpg</file>
+        <file>11.jpg</file>
+        <file>12.png</file>
+        <file>13.jpg</file>
+        <file>14.jpg</file>
+        <file>16.jpg</file>
+        <file>17.png</file>
+        <file>18.jpg</file>
+        <file>19.jpg</file>
+        <file>20.jpg</file>
+        <file>21.jpg</file>
+        <file>22.jpg</file>
+        <file>23.png</file>
+        <file>24.png</file>
+        <file>25.png</file>
+    </qresource>
+</RCC>
